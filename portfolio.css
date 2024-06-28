@@ -134,7 +134,7 @@ html::-webkit-scrollbar-thumb{
         0 0 100px var(--main-color), 0 0 200px var(--main-color);
 }
 .resume-btn{
-    color: black;
+    color: var(--main-color);
     margin: auto;
     margin-left: 25px;
     display: inline-block;
